@@ -304,12 +304,6 @@
       "source": "embedded",
       "dependencies": {}
     },
-    "riskofthunder-r2api_orb": {
-      "version": "file:R2API_Orb",
-      "depth": 0,
-      "source": "embedded",
-      "dependencies": {}
-    },
     "riskofthunder-r2api_prefab": {
       "version": "file:R2API_Prefab",
       "depth": 0,
@@ -424,7 +418,7 @@
       "dependencies": {}
     },
     "teammoonstorm-moonstormsharedutils": {
-      "version": "https://github.com/TeamMoonstorm/MoonstormSharedUtils.git",
+      "version": "https://github.com/TeamMoonstorm/MoonstormSharedUtils.git#2.2.0",
       "depth": 0,
       "source": "git",
       "dependencies": {},
